@@ -1,5 +1,5 @@
 # Vue 3 + Spring Boot Full Stack Starter
-
+# 项目的介绍图片在images目录下 
 This workspace contains two applications:
 
 - `frontend`: Vue 3 + Vue Router + TypeScript
